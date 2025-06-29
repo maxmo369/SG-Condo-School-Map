@@ -1,0 +1,14 @@
+[
+  {
+    "lat": 1.3521,
+    "lng": 103.8198,
+    "title": "Singapore",
+    "description": "This is Singapore!"
+  },
+  {
+    "lat": 40.7128,
+    "lng": -74.0060,
+    "title": "New York City",
+    "description": "The Big Apple"
+  }
+]
